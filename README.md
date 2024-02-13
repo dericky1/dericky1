@@ -7,6 +7,7 @@ Software Developer
 My average day consists of making stuff -> breaking stuff -> fix -> learn -> repeat.
 
 * 🌍  I'm based in Calgary, Alberta, Canada
+* 🖥️  See my portfolio at [here!](http://blue-octo-chain.vercel.app/)
 * ✉️  You can contact me at [young.derickj@gmail.com](mailto:young.derickj@gmail.com)
 
 ### Skills
