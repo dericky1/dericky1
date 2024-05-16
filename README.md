@@ -9,7 +9,8 @@ My average day consists of make -> break -> fix -> learn -> repeat
 * 🌍  I'm based in Calgary, Alberta, Canada
 * 🖥️  See my portfolio at [here!](http://blue-octo-chain.vercel.app/)
 * ✉️  You can contact me at [young.derickj@gmail.com](mailto:young.derickj@gmail.com)
-* 🧠  I'm learning Go and currently reading SICP
+* 🧠  I'm currently reading SICP.
+* 'The programs we use to conjure processes are like a sorcerer’s spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages'
 
 ### Skills
 
